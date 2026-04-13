@@ -54,5 +54,5 @@ Arabic (Native) | English (Fluent) | German (Elementary) | French (Elementary)
 
 <p align="center">
   <i>Always building, simulating, and optimizing. Let's connect!</i> <br>
-  <a href="linkedin.com/in/mahmoud-mohamed-hegazy-">LinkedIn</a> • <a href="mailto:mahmoud.hegazy3002@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/mahmoud-mohamed-hegazy-">LinkedIn</a> • <a href="mailto:mahmoud.hegazy3002@gmail.com">Email</a>
 </p>
