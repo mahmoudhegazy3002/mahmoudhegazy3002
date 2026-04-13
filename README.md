@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Mahmoud Hegazy 👋</h1>
 <h3 align="center">Mechatronics Engineer | Robotics, Vehicle Dynamics & Autonomous Systems</h3>
 
